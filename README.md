@@ -31,8 +31,20 @@ CodeClimb is an interactive web app that helps users learn TypeScript step-by-st
 
 ## 📁 Folder Structure (Planned)
 
-codeclimb/ ├── public/ # Static assets ├── src/ │ ├── components/ # Reusable React components │ ├── pages/ # Main views (Home, Learn, Challenges) │ ├── lessons/ # JSON or TS files with learning content │ ├── challenges/ # Coding challenges and metadata │ ├── ai/ # AI helper functions and prompt templates │ ├── utils/ # Utility functions │ └── styles/ # CSS or styled-components ├── .gitignore ├── package.json ├── tsconfig.json └── README.md
-
+codeclimb/
+    ├── public/             # Static assets
+    ├── src/
+    │   ├── components/     # Reusable React components
+    │   ├── pages/          # Main views (Home, Learn, Challenges)
+    │   ├── lessons/        # JSON or TS files with learning content
+    │   ├── challenges/     # Coding challenges and metadata
+    │   ├── ai/             # AI helper functions and prompt templates
+    │   ├── utils/          # Utility functions
+    │   └── styles/         # CSS or styled-components
+    ├── .gitignore
+    ├── package.json
+    ├── tsconfig.json
+    └── README.md
 
 ---
 
